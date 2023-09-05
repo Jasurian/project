@@ -1,0 +1,63 @@
+2023-08-30 12:30:23,747 - App - INFO - Received request to the index page
+2023-08-30 12:30:34,835 - App - INFO - Login successful: Jasurian
+2023-08-30 12:30:34,882 - App - INFO - Accessed the dashboard for user: Jasurian
+2023-08-30 12:30:46,689 - App - INFO - Accessed the new document page for user: Jasurian
+2023-08-30 12:30:46,767 - App - INFO - Accessed the word processor route for user: Jasurian
+2023-08-30 12:31:03,414 - App - INFO - Accessed the dashboard for user: Jasurian
+2023-08-30 12:31:05,961 - App - INFO - Accessed the new document page for user: Jasurian
+2023-08-30 12:31:06,040 - App - INFO - Accessed the word processor route for user: Jasurian
+2023-08-30 13:58:54,240 - App - INFO - Accessed the dashboard for user: Jasurian
+2023-08-30 13:58:55,903 - App - INFO - User logged out
+2023-08-30 13:58:56,111 - App - INFO - Received request to the index page
+2023-08-30 13:59:09,990 - App - INFO - User registered successfully: Jay
+2023-08-30 13:59:10,030 - App - INFO - Received request to the index page
+2023-08-30 13:59:13,680 - App - INFO - Login successful: Jay
+2023-08-30 13:59:13,744 - App - INFO - Accessed the dashboard for user: Jay
+2023-08-30 13:59:15,335 - App - INFO - Accessed the word processor route for user: Jay
+2023-08-30 13:59:19,356 - App - INFO - Accessed the dashboard for user: Jay
+2023-08-30 13:59:20,858 - App - INFO - User logged out
+2023-08-30 13:59:20,962 - App - INFO - Received request to the index page
+2023-08-30 14:01:05,834 - App - INFO - User registered successfully: Tee
+2023-08-30 14:01:05,922 - App - INFO - Received request to the index page
+2023-08-30 14:01:12,747 - App - INFO - Login successful: Tee
+2023-08-30 14:01:12,787 - App - INFO - Accessed the dashboard for user: Tee
+2023-08-30 14:01:19,743 - App - INFO - Accessed the new document page for user: Tee
+2023-08-30 14:01:19,862 - App - INFO - Accessed the word processor route for user: Tee
+2023-08-30 14:02:37,891 - App - INFO - Accessed the dashboard for user: Tee
+2023-08-30 14:02:41,996 - App - INFO - Accessed the word processor route for user: Tee
+2023-08-30 14:02:51,167 - App - INFO - Accessed the dashboard for user: Tee
+2023-08-30 14:03:36,031 - App - INFO - User logged out
+2023-08-30 14:03:36,095 - App - INFO - Received request to the index page
+2023-08-30 14:04:09,297 - App - INFO - User registered successfully: mond
+2023-08-30 14:04:09,329 - App - INFO - Received request to the index page
+2023-08-30 14:04:17,828 - App - INFO - Login successful: mond
+2023-08-30 14:04:17,987 - App - INFO - Accessed the dashboard for user: mond
+2023-08-30 14:04:20,981 - App - INFO - Accessed the new document page for user: mond
+2023-08-30 14:04:21,085 - App - INFO - Accessed the word processor route for user: mond
+2023-08-30 14:06:46,431 - App - INFO - Accessed the dashboard for user: mond
+2023-08-30 14:06:55,320 - App - INFO - User logged out
+2023-08-30 14:06:55,352 - App - INFO - Received request to the index page
+2023-08-30 14:07:43,448 - App - INFO - User registered successfully: Andile
+2023-08-30 14:07:43,488 - App - INFO - Received request to the index page
+2023-08-30 14:08:10,638 - App - INFO - User registered successfully: Andile
+2023-08-30 14:08:10,758 - App - INFO - Received request to the index page
+2023-08-30 14:08:40,197 - App - INFO - Login successful: Andile
+2023-08-30 14:08:40,277 - App - INFO - Accessed the dashboard for user: Andile
+2023-08-30 14:08:47,980 - App - INFO - Accessed the word processor route for user: Andile
+2023-08-30 14:08:57,419 - App - INFO - Accessed the dashboard for user: Andile
+2023-08-30 14:09:05,924 - App - INFO - Accessed the new document page for user: Andile
+2023-08-30 14:09:05,964 - App - INFO - Accessed the word processor route for user: Andile
+2023-08-30 14:09:14,464 - App - INFO - Accessed the dashboard for user: Andile
+2023-08-30 14:09:52,303 - App - INFO - User logged out
+2023-08-30 14:09:52,359 - App - INFO - Received request to the index page
+2023-08-30 14:10:14,913 - App - INFO - User registered successfully: MissSN
+2023-08-30 14:10:15,001 - App - INFO - Received request to the index page
+2023-08-30 14:10:53,842 - App - INFO - User registered successfully: MissSN
+2023-08-30 14:10:53,938 - App - INFO - Received request to the index page
+2023-08-30 14:11:18,782 - App - INFO - Login successful: MissSN
+2023-08-30 14:11:18,846 - App - INFO - Accessed the dashboard for user: MissSN
+2023-08-30 14:11:28,306 - App - INFO - Accessed the new document page for user: MissSN
+2023-08-30 14:11:28,434 - App - INFO - Accessed the word processor route for user: MissSN
+2023-08-30 14:11:56,265 - App - INFO - Accessed the dashboard for user: MissSN
+2023-08-30 14:12:55,154 - App - INFO - User logged out
+2023-08-30 14:12:55,242 - App - INFO - Received request to the index page

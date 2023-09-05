@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.toolbar {
+    padding: 10px;
+    background-color: #f0f0f0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1; /* Ensure the toolbar is above the editor */
+}
+
+.editor {
+    border: none;
+    padding: 50px;
+    margin-top: 10px; /* Adjusted margin-top to make space for the toolbar */
+    min-height: calc(100vh - 50px); /* Subtract the height of the toolbar */
+    width: 100%;
+}
+
+button {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+input[type="color"] {
+    margin-right: 10px;
+}
